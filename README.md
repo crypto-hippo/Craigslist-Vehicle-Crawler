@@ -7,7 +7,7 @@
 
 ## Running the Development Environment
 
-Make sure python 2.7 is installed
+Make sure python 2.7.13 is installed
 
 1. To install dependency manager, run `easy_install pip`
 
