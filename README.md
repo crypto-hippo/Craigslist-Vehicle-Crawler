@@ -4,7 +4,6 @@
 
 - Python 2.7, Requests, BeautifulSoup
 
-Make sure you have all of the above or refer to the docs on how to [install the requirements](http://docs.gae-init.appspot.com/requirement/).
 
 ## Running the Development Environment
 
